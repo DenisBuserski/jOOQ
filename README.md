@@ -10,5 +10,5 @@ I decided to try out jOOQ(Java Object Oriented Querying) and made a simple progr
 3. Or you can just run [setup.sql](java-jooq/src/main/resources/setup.sql)
 4. Enjoy!
 
-If you want to explore more of the jOOQ, you can vist their (website)[https://www.jooq.org/]. Also you can find most of the SQL queries [here](https://www.jooq.org/doc/latest/manual/sql-building/sql-statements/).
+If you want to explore more of the jOOQ, you can vist their [website](https://www.jooq.org/). Also you can find most of the SQL queries [here](https://www.jooq.org/doc/latest/manual/sql-building/sql-statements/).
 
